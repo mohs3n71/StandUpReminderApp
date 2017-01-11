@@ -28,6 +28,9 @@
         android:layout_height="100dp" />
 
     <Button
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/stand_now"
         android:id="@+id/showChart"
         android:text="Collected data"
         android:layout_width="wrap_content"
